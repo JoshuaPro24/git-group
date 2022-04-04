@@ -1,1 +1,1 @@
-log.console('Group Project!')
+log.console('Group Project!');
